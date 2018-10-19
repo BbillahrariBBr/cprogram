@@ -1,0 +1,1 @@
+firmawre version 1.0.2 Build 20160811 rel.55127 hardware version archer c60 v1.0
